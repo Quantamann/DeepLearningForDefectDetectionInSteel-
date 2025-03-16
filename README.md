@@ -9,6 +9,8 @@ This repository contains the core code for our steel defect detection system. Du
 
 [Google Drive Folder](https://drive.google.com/drive/u/1/folders/1jonubCevVX14OBUJMf25Fo-4NFOjDKQe)
 
+We need a custom loss function to train this ResUNet.So, we have used the loss function as it is from https://github.com/nabsabraham/focal-tversky-unet/blob/master/losses.py
+
 ## Attribution
 
 The utility code used in the models has been sourced from existing implementations and was not developed by me. All source code is used in accordance with their respective licenses for educational and research purposes.
